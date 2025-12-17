@@ -1,0 +1,2 @@
+vless://70c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=jnsbcvs.evk84v50pw.workers.dev&fp=chrome&type=ws&sni=jnsbcvs.evk84v50pw.workers.dev#SAMSUNG%20KOREA%20313
+vless://70c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jnsbcvs.evk84v50pw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jnsbcvs.evk84v50pw.workers.dev#SAMSUNG%20KOREA%20314
