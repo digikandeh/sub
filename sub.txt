@@ -1,2 +1,13 @@
-vless://70c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=jnsbcvs.evk84v50pw.workers.dev&fp=chrome&type=ws&sni=jnsbcvs.evk84v50pw.workers.dev#SAMSUNG%20KOREA%20313
-vless://70c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jnsbcvs.evk84v50pw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jnsbcvs.evk84v50pw.workers.dev#SAMSUNG%20KOREA%20314
+vless://70c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=jnsbcvs.evk84v50pw.workers.dev&fp=chrome&type=ws&sni=jnsbcvs.evk84v50pw.workers.dev#SAMSUNG%20DE%20313
+
+vless://70c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jnsbcvs.evk84v50pw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jnsbcvs.evk84v50pw.workers.dev#SAMSUNG%20DE%20314
+
+vless://fbb69f08-f06e-4413-b227-38a11a0b9258@104.18.36.53:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=bnvfgtty.kgwawyokzcch.workers.dev&type=ws#SAMSUNG%20US%20315
+
+vless://fbb69f08-f06e-4413-b227-38a11a0b9258@172.66.214.31:443?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=bnvfgtty.kgwawyokzcch.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=bnvfgtty.kgwawyokzcch.workers.dev#SAMSUNG%20US%20316
+
+vless://fbb69f08-f06e-4413-b227-38a11a0b9258@104.18.195.48:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=bnvfgtty.kgwawyokzcch.workers.dev&type=ws#SAMSUNG%20US%20317
+
+vless://fbb69f08-f06e-4413-b227-38a11a0b9258@188.114.98.46:443?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=bnvfgtty.kgwawyokzcch.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=bnvfgtty.kgwawyokzcch.workers.dev#SAMSUNG%20US%20318
+
+vless://fbb69f08-f06e-4413-b227-38a11a0b9258@104.25.157.50:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=bnvfgtty.kgwawyokzcch.workers.dev&type=ws#SAMSUNG%20US%20319
